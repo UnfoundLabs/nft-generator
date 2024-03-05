@@ -1,2 +1,15 @@
-# nft-generator
-This is a NFT generator that will create the NFT image based on available layers, as well as loop back through to calculate trait rarity scores, and NFT rarity rank.
+## The Unfound Labs NFT Generator with Rarity Score Calculations
+
+### Features
+
+- Customized Layering
+- Image and JSON Creation
+- Trait Frequency Score
+- NFT Ranking System
+- Automatically adds rarity to JSON
+
+## Installation
+
+```python
+def hello_world():
+    print("Hello, World!")
