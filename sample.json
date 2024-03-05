@@ -1,0 +1,65 @@
+{
+    "name": "My Collection #1",
+    "description": "A dope collection of..",
+    "image": "https://ipfs.io/path/to/nft_1.png",
+    "external_url": "https://yourCoolSite.com",
+    "background_color": "000000",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Sun",
+            "rarity_score": 10.0
+        },
+        {
+            "trait_type": "Fur",
+            "value": "Pink",
+            "rarity_score": 10.0
+        },
+        {
+            "trait_type": "Patch",
+            "value": "Disintegrate Blue",
+            "rarity_score": 10.0
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Sand",
+            "rarity_score": 10.0
+        },
+        {
+            "trait_type": "Body",
+            "value": "Exoskeleton",
+            "rarity_score": 3.33
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Flesh Wound",
+            "rarity_score": 5.0
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mutt",
+            "rarity_score": 5.0
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Orange",
+            "rarity_score": 2.5
+        },
+        {
+            "trait_type": "Head",
+            "value": "None",
+            "rarity_score": 5.0
+        },
+        {
+            "trait_type": "Item",
+            "value": "Skateboard",
+            "rarity_score": 10.0
+        },
+        {
+            "trait_type": "Hand",
+            "value": "Orange Exoskeleton",
+            "rarity_score": 5.0
+        }
+    ],
+    "rarity_rank": 75.83333333333334
+}
