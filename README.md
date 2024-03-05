@@ -16,7 +16,12 @@ You will need the Pillow library installed
 pip install pillow
 ```
 
-## Run The generate.py file
+Run the py script
+```python
 
-``` python3 gennerate.py
+python generate.py
+```
+
+Your new images and JSON will be in /nft
+
 
