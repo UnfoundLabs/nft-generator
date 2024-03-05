@@ -10,7 +10,13 @@
 
 ## Installation
 
+You will need the Pillow library installed
 ```python
-pip install pillow
 
+pip install pillow
+```
+
+## Run The generate.py file
+
+``` python3 gennerate.py
 
